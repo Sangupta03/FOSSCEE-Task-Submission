@@ -1,0 +1,8 @@
+Django
+djangorestframework
+pandas
+reportlab
+django-cors-headers
+PyQt5
+matplotlib
+requests
