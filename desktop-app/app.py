@@ -9,8 +9,8 @@ from matplotlib.figure import Figure
 
 BASE_URL = "http://127.0.0.1:8000/api"
 
-# ✅ Put your Django superuser here (same one that works in browser admin)
-AUTH = ("ridhima", "behappy")   # <-- change password if needed
+# Put your Django superuser here (same one that works in browser admin)
+AUTH = ("admin", "admin")  
 
 
 class DesktopApp(QWidget):
